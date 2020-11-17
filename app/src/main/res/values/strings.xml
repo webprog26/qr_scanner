@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Zzxing2</string>
+
+    <string name="launch_url_decoded_btn_text">Launch</string>
+    <string name="url_to_be_launched">Url to be launched: %1$s</string>
+    <string name="btn_scan_qr_code_text">Scan QR code</string>
+</resources>
